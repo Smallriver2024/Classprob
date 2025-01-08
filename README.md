@@ -147,7 +147,7 @@ $Cutoff
 ## Contact
 
 For questions or suggestions, please contact:  
-📧 Email: [huxiaojiang2021@163.com](mailto:huxiaojiang2021@163.com)  
+📧 Email: [573814880@qq.com](mailto:573814880@qq.com)  
 🌐 GitHub: [Smallriver2024](https://github.com/Smallriver2024)
 
 ---
