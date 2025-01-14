@@ -2,7 +2,7 @@
 
 ---
 
-`Classprob` is an R package for calculating classification model performance metrics and formatting logistic regression results.
+`Classprob` is an R package for calculating classification model performance metrics and formatting logistic regression results. 说人话就是脚本太长了，把要实现的function封到一个R包里面方便我自己使用。主要用于二分类预测问题模型的相关计算，补充了一些已有的大佬的包里面缺少的函数
 
 ---
 
